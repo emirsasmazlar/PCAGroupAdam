@@ -1,0 +1,7 @@
+tensorflow
+shap
+numpy
+pandas
+scikit-learn
+matplotlib
+geoparse
